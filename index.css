@@ -1,4 +1,4 @@
-/* header styles part*/
+
 header {
     background-color: rgba(40, 167, 185, 0.9);
     height: 18vh;
@@ -9,7 +9,7 @@ header {
     gap: 2rem;
 }
 
-/* Header Branding Section */
+
 .header_branding {
     flex: 0 0 auto;
 }
@@ -268,7 +268,7 @@ header {
     }
 }
 
-/* Mobile phones */
+
 @media (max-width: 480px) {
     .header_breadcrumb {
         font-size: 1rem;
@@ -649,4 +649,5 @@ footer {
     .article_style1 {
         font-size: 1.5rem;
     }
+
 
